@@ -1,8 +1,8 @@
-import React from "react";
+import React, { Fragment } from "react";
 
 const Contact = () => {
   return (
-    <section>
+    <Fragment>
       <h1>Contact Me</h1>
       <div>
         <ul>
@@ -11,7 +11,7 @@ const Contact = () => {
           <l1>oladunniyetunde6@gmail.com</l1>
         </ul>
       </div>
-    </section>
+    </Fragment>
   );
 };
 
