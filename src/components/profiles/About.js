@@ -7,12 +7,11 @@ const About = () => {
     <Fragment>
       <h2>About Me</h2>
       <div>
-        <h3>
-          Emotionally intelligent and innovative, History and International
-          Studies graduate with experience in customer service and
-          administration. Good relational skills with a flair for supporting
-          others and ensuring the organization runs efficiently.
-        </h3>
+        <p>
+          Hi! I am an History and International 
+          Studies graduate <br/> with experience in customer service and
+          administration.<br/>With a Good relational skills with a flair for supporting
+        </p>
       </div>
     </Fragment>
   );
