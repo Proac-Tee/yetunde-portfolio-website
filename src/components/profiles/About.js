@@ -6,8 +6,8 @@ import classes from "./About.module.css";
 const About = () => {
   return (
     <Fragment>
-      <h2>About Me</h2>
-      <div>
+      <div className={classes.about}>
+        <h2>About Me</h2>
         <p>
           Hi! I am an History and International Studies graduate <br /> with
           experience in customer service and administration.
