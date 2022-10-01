@@ -1,0 +1,10 @@
+.images {
+  width: 45%;
+  height: 80%;
+  bottom: 10px;
+  right: 100px;
+}
+
+p {
+  display: inline-block;
+}
