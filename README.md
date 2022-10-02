@@ -1,4 +1,4 @@
-# This is Yetunde Adeola personal personal website
+# Yetunde Adeola Personal Portfolio Website
 
 ## Introduction
 

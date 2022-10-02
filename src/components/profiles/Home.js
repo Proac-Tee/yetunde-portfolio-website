@@ -3,9 +3,10 @@ import Card from "../UI/Card";
 import About from "./About";
 import Contact from "./Contact";
 import Education from "./Education";
-import classes from "./Home.module.css";
 import Resume from "./Resume";
 import Skills from "./Skills";
+
+import classes from "./Home.module.css";
 
 const Home = () => {
   return (
