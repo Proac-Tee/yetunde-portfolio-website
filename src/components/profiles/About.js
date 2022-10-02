@@ -6,15 +6,17 @@ import classes from "./About.module.css";
 const About = () => {
   return (
     <Fragment>
-      <div className={classes.about}>
+      <div className={classes.container}>
         <h2>About Me</h2>
-        <p>
-          Hi! I am an History and International Studies graduate <br /> with
-          experience in customer service and administration.
-          <br />
-          With a Good relational skills with a flair for supporting
-        </p>
-        <img src={yetunde} alt="yetunde-img" className={classes.images} />
+        <div className={classes.about}>
+          <p>
+            Hi! I am an History and International Studies graduate <br /> with
+            experience in customer service and administration.
+            <br />
+            With a Good relational skills with a flair for supporting
+          </p>
+          <img src={yetunde} alt="yetunde-img" className={classes.images} />
+        </div>
       </div>
     </Fragment>
   );
