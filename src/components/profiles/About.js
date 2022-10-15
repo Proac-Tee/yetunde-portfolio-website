@@ -10,8 +10,9 @@ const About = () => {
         <h2>About Me</h2>
         <div className={classes.about}>
           <p>
-            Hi! I am an History and International Studies graduate <br /> with
-            experience in customer service and administration
+            Hi! I am Yetunde Oladunni. An History and International Studies
+            graduate <br /> with experience in customer service and
+            administration
             <br />
             With a Good relational skills with a flair for supporting
           </p>
