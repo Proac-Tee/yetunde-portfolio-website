@@ -14,7 +14,7 @@ const About = () => {
             graduate <br /> with experience in customer service and
             administration
             <br />
-            With a Good relational skills with a flair for supporting
+            With a Good relational skills with a flair for supporting people
           </p>
           <img src={yetunde} alt="yetunde-img" className={classes.images} />
         </div>
