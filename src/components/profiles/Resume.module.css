@@ -1,0 +1,19 @@
+h2 {
+  text-align: center;
+  margin-top: 0px;
+}
+
+.container {
+  display: flex;
+}
+
+.work_one {
+  width: 25%;
+  align-items: left;
+}
+
+.work_two {
+  margin: 0px 5px;
+  align-items: right;
+  width: 25%;
+}

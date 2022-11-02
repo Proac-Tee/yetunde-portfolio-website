@@ -12,16 +12,15 @@ const About = () => {
           <div className={classes.content}>
             <h2>Hi! I am Yetunde Oladunni</h2>
             <p>
-            An History and International Studies 
-            graduate <br /> with experience in customer service and
-            administration
-            <br />
-            With a Good relational skills with a flair for supporting people
+              An History and International Studies graduate <br /> with
+              experience in customer service and administration
+              <br />
+              With a Good relational skills with a flair for supporting people
             </p>
           </div>
           <img src={yetunde} alt="yetunde-img" className={classes.images} />
         </div>
-    </div>
+      </div>
     </Fragment>
   );
 };
