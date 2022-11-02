@@ -1,0 +1,18 @@
+.container {
+  background-color: pink;
+  width: 80%;
+  padding: 0px 10%;
+  margin-bottom: 0%;
+}
+
+ul {
+  margin: 0;
+  padding-bottom: 20px;
+  list-style-type: none;
+  text-align: center;
+}
+
+ul li {
+  display: inline;
+  padding: 0px 20px;
+}
